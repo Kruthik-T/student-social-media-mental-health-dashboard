@@ -137,11 +137,12 @@ Study hours and stress levels show notable relationships, highlighting the impor
 
 ## 📸 Dashboard Preview
 
-### Dashboard Overview
-(Add Screenshot Here)
+<img width="1920" height="1020" alt="Screenshot 2026-06-14 184618" src="https://github.com/user-attachments/assets/5c2d2ede-c8c1-419d-9a83-50b52bc4f1aa" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-14 184627" src="https://github.com/user-attachments/assets/d12caaa0-73ae-4a8a-a39b-92394b447986" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-14 184634" src="https://github.com/user-attachments/assets/46fa415f-2d4d-4eb6-8a93-bd22af0763d6" />
 
-### Insights Page
-(Add Screenshot Here)
+
+
 
 ---
 
