@@ -181,4 +181,4 @@ Kruthik Teliseeri
 B.Tech in Computer Science Engineering (AI & ML) | 2026 Graduate
 
 LinkedIn: https://linkedin.com/in/yourprofile
-Portfolio: https://yourportfolio.com
+Portfolio:rococo-crumble-3c0570.netlify.app
